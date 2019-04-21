@@ -9,6 +9,8 @@
 # else:
 #     print("Bienvenido!")
 
+#--------------------------------------------------------
+
 print("Verificación de notas")
 
 nota_alumno = int(input("Introduce tu nota:"))

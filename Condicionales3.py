@@ -4,7 +4,7 @@
 #     print("Edad correcta")
 # else:
 #     print("Edad inconrrecta")
-
+#---------------------------------------------------------------------
 salario_presidente = int(input("Introduce salario del presidente:"))
 print("Salario presidente:" + str(salario_presidente))
 
