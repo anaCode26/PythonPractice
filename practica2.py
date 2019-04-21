@@ -32,6 +32,7 @@ class Miclase(Heredada):
         print("hola")
 a = Miclase()
 a.hola()
+
 a.chao()
 
 

@@ -14,6 +14,7 @@ if distancia_escuela >  40 and numero_hermanos > 2 or salario_anual <= 20000:
 else:
     print("No tienes derecho a becas")
 
+
 #----------------------------------------------------------------------
 
 print("Asignatura optativa año 2019")
